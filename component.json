@@ -19,7 +19,7 @@
     "lib/url.js",
     "lib/on.js"
   ],
-    "main":"lib/index.js",
+    "main":"lib/index.js"
 }
 
 
