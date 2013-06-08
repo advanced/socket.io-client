@@ -1,14 +1,14 @@
 {
   "name": "socket.io",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "learnboost/engine.io-client": "0.6.1",
     "learnboost/socket.io-protocol": "1.0.3",
-    "component/emitter": "",
-    "component/bind": "",
-    "component/json-fallback": "*",
-    "timoxley/to-array": "",
-    "visionmedia/debug": "*"
+    "component/emitter": "1.0.0",
+    "component/bind": "0.0.1",
+    "component/json-fallback": "0.0.1",
+    "timoxley/to-array": "0.1.4",
+    "visionmedia/debug": "0.7.2"
   },
   "scripts": [
     "lib/index.js",
